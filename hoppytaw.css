@@ -1,0 +1,46 @@
+nav{
+	position: fixed;
+	top: 0;
+}
+
+nav .brand-logo{
+	font-size: 3.1rem;
+}
+
+#hamburger{
+	height: 50px;
+    margin-top: 10%;
+    display: inline;
+}
+
+#body{
+	margin-top: 3%;
+}
+
+.parallax-container{
+	height: 300px;
+}
+.modal-trigger:hover{
+	background-color: white;
+	color: #2196F3;
+}
+
+#aboutmodal{
+	min-height: 55%!important;
+}
+
+#tournamentmodal{
+	min-height: 62%!important;
+}
+
+#classicmodal{
+	min-height: 85%!important;
+}
+
+.carousel-slider{
+	min-height: 400px;
+}
+
+iframe{
+	margin-top: 1%;
+}
