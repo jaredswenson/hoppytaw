@@ -30,16 +30,45 @@ nav .brand-logo{
 }
 
 #tournamentmodal{
-	min-height: 62%!important;
+	min-height: 85%!important;
 }
 
 #classicmodal{
 	min-height: 85%!important;
 }
 
-.carousel-slider{
-	min-height: 400px;
+#definitionsmodal{
+	min-height: 85%;
 }
+
+.modal-footer{
+	position: fixed;
+	bottom: 0px;
+}
+
+.carousel-item{
+	margin-bottom: 5px;
+}
+
+#footer{
+	height: 50px;
+	width: 100%;
+	margin: 0;
+}
+
+#jaredinfo{
+	float: right;
+}
+
+span{
+	text-decoration: underline;
+	color: yellow;
+}
+
+#sidenav-overlay{
+	display: none;
+}
+
 
 iframe{
 	margin-top: 1%;
